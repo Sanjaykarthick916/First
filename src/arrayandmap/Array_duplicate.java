@@ -17,7 +17,7 @@ public class Array_duplicate {
 		public static void main(String[] args) {
 			subMethod();
 		}
-		
+		System.out.println(k);
 	}
 
 
